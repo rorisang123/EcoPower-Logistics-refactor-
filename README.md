@@ -9,7 +9,7 @@ Register an account and log in
 The following view will then be presented.
 From here, you can perform respective CRUD operations on the data.
 
-<img width="780px" src="Capture.JPG" alt="screenshot" />
+<img width="780px" src="Capture.jpg" alt="screenshot" />
 
 # Secret Keys
 Appsetting contain sensitive info that has been ommited and pushed only to the Azure web service, where the codebase isn't publicly accessible.
