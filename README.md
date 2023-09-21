@@ -18,7 +18,9 @@ Appsetting contain sensitive info that has been ommited and pushed only to the A
 
 # References
 Rahman, S., (2019). The 3 Types of Design Patterns All Developers Should Know (with code examples of each)\
+
 Wikipedia, (2023). ‘Inversion of control’, Wikipedia. Available at: (Accessed: 16 September 2023).\
+
 TutorialsTeacher, (2023). ‘Inversion of Control’, TutorialsTeacher. Available at: (Accessed: 17 September 2023).\
 Microsoft Learn, (2023). ‘MVVM - IOC Containers and MVVM’, Microsoft Learn. Available at: (Accessed: 17 September 2023).\
 MSDN, (2008). ‘Inversion of Control References’, MSDN. Available at: (Accessed: 17 September 2023).\
