@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Models;
 using System.Diagnostics;
+using Microsoft.Extensions.Logging;
 
 namespace Controllers
 {
